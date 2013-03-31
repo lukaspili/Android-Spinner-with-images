@@ -1,0 +1,30 @@
+# Android
+bin/
+target/
+gen/
+local.properties
+proguard_logs/
+*.apk
+
+# Android maven
+gen-external-apklibs/
+lib/
+
+# Gradle
+build/
+.gradle/
+
+# Eclipse
+.classpath
+.project
+.settings
+
+# Intellij IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Mac OS
+*.DS_Store
